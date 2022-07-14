@@ -16,7 +16,7 @@ box-sizing: border-box;
   width: 810px;
   border-radius: 10%;
 }
-.container:hover{ transform: scale(1.02,1.02);}
+.container:hover{ transform: scale(1.01,1.01);}
 h3{
   font-family: 'Big Shoulders Display', cursive;
   margin-left: 2%;
